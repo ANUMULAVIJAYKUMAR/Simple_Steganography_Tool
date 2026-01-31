@@ -23,10 +23,3 @@ venv\Scripts\activate   # Windows
 
 INSTALL REQUIRED LIBRARIES:
 pip install pillow
-
-OUTPUT:
-ENCODING:
-(image.png)
-DECODING:
-(image-1.png)
-![alt text](image-2.png)
